@@ -1,6 +1,6 @@
 ## :rocket: modulo01 - Introdução ao Node.js
 
-Este é um projeto introdutório ao Node.js no <b>Bootcamp GoStack da Rocketseat</b> onde trabalhamos de forma simples na construção de um CRUD, fazendo uso dos Query e Route params para acessar os dados recebidos pelo usuário e tratar as respostas. 
+Este é um projeto introdutório ao Node.js no <b>Bootcamp GoStack da Rocketseat</b> onde trabalhamos de forma simples na construção de um CRUD, fazendo uso dos Query params e Body dos métodos para acessar os dados enviados pelo usuário e tratar as respostas. 
 
 Junto às requisições, trabalhamos também com os middlewares, que funcionam como interceptadores das requisições (e ai temos os dois tipos, que tratam localmente um método específico ou todas as requisições) para validar, tratar e retornar dados antes de seguir com a requisição.
 
